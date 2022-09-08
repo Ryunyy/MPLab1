@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.example.lab1mp","l":"ExampleInstrumentedTest"},{"p":"com.example.lab1mp","l":"ExampleUnitTest"},{"p":"com.example.lab1mp","l":"Functions"},{"p":"com.example.lab1mp","l":"MainActivity"}]
